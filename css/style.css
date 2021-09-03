@@ -1,0 +1,63 @@
+*{
+  margin: 0%;;
+  padding: 1px;
+
+}
+
+body{
+  font-family: "Nunito",sans-serif;
+  background: #f8f8f8;
+}
+
+.input{
+  text-align: center;
+  margin: 100px auto;
+  
+}
+
+input[type="submit"]{
+  padding: 15px 30px;
+  background: #d6caca;
+  border: none;
+  border-radius: 5px;
+  font-family: "Nunito",sans-serif;
+  font-weight:bold;
+  font-size: 20px;
+}
+
+.input input[type="text"]{
+  width: 600px;
+  height: 45px;
+  padding: 5px 10px;
+  background: #e7e7e7;
+  border: none;
+  border-radius: 5px;
+  font-family: "Nunito",sans-serif;
+  font-weight:bold;
+  font-size: 20px;
+}
+
+.card{
+  width: 50%;
+  background: #e7e7e7; 
+  background-image: url("sean-oulashin-KMn4VEeEPR8-unsplash.jpg"); 
+  height: 40vh;
+  margin: 50px auto;
+  border-radius: 10px;
+}
+
+
+
+
+.card h1{
+  padding: 10px 15px;
+  text-align: center;
+  
+}
+
+.card p{
+ 
+  margin:40px 0;
+  text-align: inherit;
+  font-size:20px;
+}
